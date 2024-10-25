@@ -1,4 +1,3 @@
-# wireshark_pcap_analysis
 <h1>Pcap file analysis with wireshark</h1>
 
 <h2>Description</h2>
@@ -14,7 +13,6 @@ This project was done as one of the challenges on Hack the box. The overall task
 <h2>Environments Used </h2>
 
 - <b>Windows Server 2022</b>
-- <b>Windows 10</b>
 
 <h2>Project walk-through:</h2>
 
